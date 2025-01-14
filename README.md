@@ -3,6 +3,8 @@
 
 This repository contains a comprehensive framework for simulating and analyzing insurance environments using Generative AI and Reinforcement Learning (RL). The project models claim distributions, evaluates stochastic behaviors, and analyzes results under different scenarios using custom AI models and environments.
 
+This work is based on insights presented in the paper: [AI-Driven Insurance Framework](https://arxiv.org/abs/2501.06404).
+
 ---
 
 ## Project Overview
@@ -112,11 +114,18 @@ The repository is structured as follows:
 
 ## Results and Visualizations
 
-Generated results and plots are saved in the `results/` directory. Examples include:
-- **Surplus Evolution**:
-  ![Surplus Evolution](results/surplus_plot.png)
-- **Claim Distribution**:
-  ![Claim Distribution](results/claim_distribution.png)
+### Surplus Over Training
+![Surplus Training](surplus_training.png)
+
+### Claim Distributions
+- **Lognormal and Generated Comparison**:
+  ![Lognormal and Generated](Lognormal_and_Generated_Side_by_Side.png)
+  
+- **Combined Lognormal and Pareto Comparison**:
+  ![Lognormal and Pareto Combined](Lognormal_and_Pareto_Combined_Side_by_Side.png)
+  
+- **Pareto and Generated Comparison**:
+  ![Pareto and Generated](Pareto_and_Generated_Side_by_Side.png)
 
 ---
 
@@ -131,4 +140,3 @@ This project is licensed under the MIT License. See `LICENSE` for details.
 Contributions are welcome! Please fork the repository, create a feature branch, and submit a pull request for review.
 
 ---
-
