@@ -1,3 +1,4 @@
+shimmy>=0.2.1
 matplotlib
 numpy
 tensorflow
