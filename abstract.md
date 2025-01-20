@@ -18,40 +18,42 @@ You can edit this file with any text editor, including RStudio, or use one  of t
 Please send us the file as an attachment with md file extension.
 -->
 
-## How to prepare a fruit salad
+## A Hybrid Framework for Reinsurance Optimization: Integrating Generative Models and Reinforcement Learning
 <!-- replace above with your abstract title -->
 
-### Kate Lemon, University of Greengrocery (presenter)
-### Nitish Pears, Institute of Studies
+### James R. Finlay, University of Pennsylvania (presenter)
+### Stella C. Dong, University of California, Davis
 <!-- replace above with author name(s) and affiliations -->
 <!-- if you have more than one author, tell us who will present -->
 
 <!-- replace below with your abstract -->
-**Abstract**: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras
-fringilla, magna et dignissim consequat, ante ex convallis nibh, vel aliquam
-turpis odio sit amet magna. Fusce nunc leo, gravida eget ornare eget, 
-dapibus vel dolor. Quisque vestibulum pretium lacus ut efficitur. 
+**Abstract**: Reinsurance optimization is crucial for insurers to manage risk exposure, maintain financial stability, and ensure solvency. This paper presents a novel hybrid framework integrating Variational Autoencoders (VAEs) with Proximal Policy Optimization (PPO) reinforcement learning for dynamic reinsurance optimization. The VAE models complex claim distributions, including rare catastrophic events, addressing data scarcity and variability. Meanwhile, PPO dynamically adjusts reinsurance parameters to maximize surplus and minimize ruin probability.
 
-Praesent accumsan tellus sit amet lacinia venenatis. Vivamus non orci sem.
-Maecenas blandit lacus turpis. Curabitur mattis iaculis vestibulum. Nam ut 
-nibh vitae enim gravida tincidunt. Etiam viverra vestibulum lectus ac maximus.
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus tincidunt, 
-nibh a pellentesque volutpat, velit quam rhoncus nunc, eu mattis ante risus 
-ut augue. Suspendisse aliquam massa neque. 
+Extensive experiments validate the framework's performance, including out-of-sample testing, stress-testing scenarios (e.g., pandemics, catastrophes), and scalability across portfolio sizes. Results demonstrate superior adaptability, robustness, and computational efficiency, achieving higher final surpluses than traditional methods.
 
-Phasellus pulvinar leo nec velit dignissim, ut pretium orci ullamcorper. 
-Morbi feugiat mollis quam id euismod. Vivamus sed viverra lorem.
+Key contributions include a hybrid approach for high-dimensional optimization, dynamic reinsurance parameterization, and validation against stochastic claim distributions. This transformative framework addresses modern reinsurance challenges and offers applications in multi-line insurance, catastrophe modeling, and risk-sharing strategies.
 
-**Keywords**: Apple, Lemon, Kiwi
+
+**Keywords**: Reinsurance Optimization, Generative Models, Reinforcement Learning, Variational Autoencoders (VAEs), Proximal Policy Optimization (PPO), Insurance Risk Management, Dynamic Parameter Adjustment, Stochastic Claim Modeling, Catastrophe Risk Analysis, Hybrid Computational Framework
 <!-- replace above with your keywords -->
 
 ### References
 <!-- Provide your reference below. No more than 5 references -->
 
-1. Smith, A., Wang, Z. (2015).
-The art of modeling article. *Journal of XY* **3/4**, 120-122.
+1. Asmussen, S., Albrecher, H. (2010). 
+Ruin Probabilities. World Scientific.
 
-2. Smith, A., Wang, Z. (2016). *Book on the Art of Modelling.* Publisher.
+2. Kingma, D. P., Welling, M. (2014). 
+Auto-Encoding Variational Bayes. arXiv preprint arXiv:1312.6114.
+
+3. Schulman, J., Wolski, F., Dhariwal, P., Radford, A., Klimov, O. (2017). 
+Proximal Policy Optimization Algorithms. arXiv preprint arXiv:1707.06347.
+
+4. Albrecher, H., Beirlant, J., Teugels, J. L. (2017).
+Reinsurance: Actuarial and Statistical Aspects. John Wiley & Sons.
+
+5. Higgins, I., Matthey, L., Pal, A., Burgess, C., Glorot, X., Botvinick, M., Mohamed, S., Lerchner, A. (2017). 
+β-VAE: Learning Basic Visual Concepts with a Constrained Variational Framework. Proceedings of the International Conference on Learning Representations (ICLR).
 
 ### Contact details
 <!-- 
