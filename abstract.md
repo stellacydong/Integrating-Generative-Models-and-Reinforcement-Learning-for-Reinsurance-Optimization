@@ -66,4 +66,5 @@ for communication but will not publish it in the programme.
  
  - Email: kjfin@hotmail.com
  - Repository: https://github.com/stellacydong/Integrating-Generative-Models-and-Reinforcement-Learning-for-Reinsurance-Optimization
- - Social media: Linkedin https://www.linkedin.com/in/james-finlay-cpcu-arm-are-ais-864bb526/
+ - Social media: [Linkedin] (https://www.linkedin.com/in/james-finlay-cpcu-arm-are-ais-864bb526/)
+
