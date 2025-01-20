@@ -64,7 +64,6 @@ the email address that you used for submission as a contact
 for communication but will not publish it in the programme.
 -->
  
- - Email: myemail@address.com
- - Homepage: myhomepage.com 
- - Repository: myrepository.com
- - Social media: Linkedin, Twitter
+ - Email: kjfin@hotmail.com
+ - Repository: https://github.com/stellacydong/Integrating-Generative-Models-and-Reinforcement-Learning-for-Reinsurance-Optimization
+ - Social media: Linkedin https://www.linkedin.com/in/james-finlay-cpcu-arm-are-ais-864bb526/
